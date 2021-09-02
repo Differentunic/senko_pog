@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/org">
+        <file>image.png</file>
+    </gresource>
+</gresources>
+<!-- glib-compile-resources.exe pog.gresource.xml --generate-header --manual-register -->
